@@ -1,0 +1,73 @@
+ git config --global user.email "ankitbaghel13@gmail.com"
+ git config --global user.name "9416391321\!aB\."
+ 
+ git init
+ git status
+ git add src/ || git add Example.java || git add .(to add all files)
+ git commit -m "Adding files"
+ git remote add origin https://github.com/ankitbaghel13/MyRepo.git
+ git push -u origin master
+ 
+ git log
+ git --help
+ 
+  fastboot boot "C:\Users\Ankit Baghel\Downloads\twrp-3.0.0-0-angler.img"
+  
+  add 	 -	adding all files for commit
+  commit -	committing files from your local to local repository
+  push	 -	Pushing your changes from local repository to remote repository
+  
+  pull	 -	Taking changes from remote repository to your local repository
+  
+  git add --all
+  
+  git remote add origin https://github.com/ankitbaghel13/AllProjects.git
+  
+  
+  
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ankitbaghel13/AllProjects.git
+git push -u origin master
+
+
+Java Concepts
+	/Core java
+	/J2EE
+	/Java 8 Concepts Durga
+	/Java8
+	/Multithreading CaveOfProgramming
+	
+Projects
+	/CRXRestful
+	/CXFRestBookShelf
+	/CxfRestService
+	/FirstAngular
+	/FirstHibOneToOne
+	/FirstWebProject
+	/HibernateOneToMany
+	/HibInheritance
+	/HibInhSingleTableAnnot
+	/HibInhSingleTableXML
+	/HibManyToMany
+	/Servers
+	/Servers2
+	/spring-mvc-example
+	/SpringBasics
+	/SpringDI
+	/SpringSecurity-HelloWorld-XML
+Interview
+	/Interviews
+	/SapientMetroCardSystem
+	/StoreWebApplication
+Design Patterns
+	/Singleton
+Data Structures
+	/BinaryTrees
+Algorithm
+	/GeeksForGeeks
+Problem Solving
+	/Others
+	/Problems
+	/ProjectEuler
