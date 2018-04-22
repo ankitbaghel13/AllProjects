@@ -1,0 +1,13 @@
+1482077775087	Move compilation unit
+1482077810930	Move compilation unit
+1482077856093	Rename type 'Tester'
+1482077902178	Delete element
+1482077996798	Rename type 'Child'
+1482078434638	Move compilation unit
+1482078439180	Move compilation unit
+1482078467645	Rename package 'Sorting'
+1482078709064	Rename package 'concept'
+1482089641728	Extract method 'parsing'
+1482089672735	Extract method 'iteratingCollections'
+1482089763157	Extract method 'subString'
+1482437180070	Rename local variable 'c'

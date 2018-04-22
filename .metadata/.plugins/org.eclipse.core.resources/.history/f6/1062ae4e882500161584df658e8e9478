@@ -1,0 +1,22 @@
+package employee;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Collections {
+
+	public static void main(String[] args) {
+
+	}
+
+
+	public void Collection(){
+		//Array
+		String[] strArray = {"dsd","sdfd"};
+
+
+		//Array List
+		List<String> strArrayList = new ArrayList<String>();
+		System.out.println("s");
+	}	
+}

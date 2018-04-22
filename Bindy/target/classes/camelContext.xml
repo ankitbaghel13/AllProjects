@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://camel.apache.org/schema/spring
+       http://camel.apache.org/schema/spring/camel-spring.xsd">
+
+
+
+	<camelContext xmlns="http://camel.apache.org/schema/spring"
+		id="context">
+
+		<dataFormats>
+			<bindy id="bindyDataformat" type="Csv"
+				classType="org.apache.camel.bindy.model.Order" />
+		</dataFormats>
+
+		<route>
+			<from uri="file://src/data/csv/?noop=true" />
+			<unmarshal ref="bindyDataformat" />
+			<process ref="details" />
+			<to uri="direct:order" />
+		</route>
+
+		<route>
+			<from uri="direct:order" />
+			<marshal ref="bindyDataformat" />
+			<to uri="file://src/data/csv/out/?fileName=out.csv&amp;fileExist=Append" />
+		</route>
+	</camelContext>
+	<bean id="order" class="org.apache.camel.bindy.model.Order" />
+	<bean id="details" class="org.apache.camel.bindy.model.Details" />
+</beans>
+	
+
+

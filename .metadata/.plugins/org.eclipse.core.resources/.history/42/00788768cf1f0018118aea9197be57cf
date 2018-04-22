@@ -1,0 +1,9 @@
+package com.binaryTree.misc;
+
+public class RootToLeafPathSum {
+
+	public static void main(String[] args) {
+
+	}
+
+}

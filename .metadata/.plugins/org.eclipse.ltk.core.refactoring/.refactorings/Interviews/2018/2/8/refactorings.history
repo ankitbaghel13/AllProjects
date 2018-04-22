@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;interviewTry&apos; to &apos;exceptionHandling&apos;&#x0D;&#x0A;- Original project: &apos;Consolidated&apos;&#x0D;&#x0A;- Original element: &apos;Consolidated/src/interviewTry&apos;&#x0D;&#x0A;- Renamed element: &apos;Consolidated/src/exceptionHandling&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;interviewTry&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;interviewTry" name="exceptionHandling" qualified="false" references="true" stamp="1519487557966" textual="false" version="1.0"/>
+</session>

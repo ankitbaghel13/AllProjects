@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public static void meth()&apos; from &apos;euler1.Main2.main()&apos; to &apos;euler1.Main2&apos;&#x0D;&#x0A;- Original project: &apos;ProjectEuler&apos;&#x0D;&#x0A;- Method name: &apos;meth&apos;&#x0D;&#x0A;- Destination type: &apos;euler1.Main2&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;meth&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;euler1{Main2.java" name="meth" replace="false" selection="150 216" stamp="1476293246683" version="1.0" visibility="1"/>
+</session>

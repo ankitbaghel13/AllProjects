@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;tDate&apos; in &apos;Employee.DateOfBirth.main(...)&apos; to &apos;today&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Original element: &apos;Employee.DateOfBirth.main(String[]).tDate&apos;&#x0D;&#x0A;- Renamed element: &apos;tDate&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;tDate&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Employee{DateOfBirth.java[DateOfBirth~main~\[QString;@tDate!128!155!135!139!QString;!0!false" name="today" references="true" stamp="1510426011720" version="1.0"/>
+</session>

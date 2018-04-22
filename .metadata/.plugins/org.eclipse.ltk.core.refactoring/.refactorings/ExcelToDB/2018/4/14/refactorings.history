@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JDBC.java&apos; to &apos;J2EE/src/jdbc&apos;&#x0D;&#x0A;- Original project: &apos;ExcelToDB&apos;&#x0D;&#x0A;- Destination element: &apos;J2EE/src/jdbc&apos;&#x0D;&#x0A;- Original element: &apos;JDBC.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=J2EE/src&lt;jdbc" element1="/src&lt;{JDBC.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1522595929302" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+1466442001843	Encapsulate field 'empID'
+1466442006708	Encapsulate field 'name'
+1466450339717	Rename method 'hashComp'
+1466452510253	Rename method 'haspMapComp'

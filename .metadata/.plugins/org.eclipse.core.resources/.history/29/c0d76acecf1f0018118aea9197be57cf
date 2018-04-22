@@ -1,0 +1,29 @@
+package com.binaryTree.misc;
+
+import com.binaryTree.traversal.Node;
+import com.binaryTree.util.TreeUtility;
+
+public class RootToLeafPathSum {
+
+	Node root;
+	
+	public RootToLeafPathSum() {
+		root = null;
+	}
+	public static void main(String[] args) {
+
+		RootToLeafPathSum tree = new RootToLeafPathSum();
+		tree.root = TreeUtility.getSmallTree();
+		tree.rootToLeafPathSum(8);
+	}
+	
+	public boolean rootToLeafPathSum(int sum) {
+		return rootToLeafPathSum(root,sum);
+	}
+	
+	public boolean rootToLeafPathSum(Node root2, int sum) {
+		
+		return false;
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;org.GeeksForGeeks.SortAlgo.quickSort(...)&apos; to &apos;quickSortPivotM&apos;&#x0D;&#x0A;- Original project: &apos;GeeksForGeeks&apos;&#x0D;&#x0A;- Original element: &apos;org.GeeksForGeeks.SortAlgo.quickSort(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;org.GeeksForGeeks.SortAlgo.quickSortPivotM(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;quickSort&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src\/main\/java&lt;org.GeeksForGeeks{SortAlgo.java[SortAlgo~quickSort~I~I~\[I" name="quickSortPivotM" references="true" stamp="1497973141781" version="1.0"/>
+</session>

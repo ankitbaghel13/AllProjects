@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public static void removeSubsequencePresent()&apos; from &apos;hackerrank.RemoveSubSequence.main()&apos; to &apos;hackerrank.RemoveSubSequence&apos;&#x0D;&#x0A;- Original project: &apos;VMWare&apos;&#x0D;&#x0A;- Method name: &apos;removeSubsequencePresent&apos;&#x0D;&#x0A;- Destination type: &apos;hackerrank.RemoveSubSequence&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;removeSubsequencePresent&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;hackerrank{RemoveSubSequence.java" name="removeSubsequencePresent" replace="false" selection="100 544" stamp="1522347909609" version="1.0" visibility="1"/>
+</session>

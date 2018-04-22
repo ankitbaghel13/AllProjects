@@ -1,0 +1,12 @@
+1472989175088	Extract method 'tryCatch'
+1473001455019	Extract method 'fromCharArray'
+1473072615809	Delete element
+1473074725611	Delete element
+1473076245876	Delete element
+1473076801911	Rename resource 'Serialization.ser'
+1473076856644	Rename local variable 'in'
+1473076895633	Rename type 'Serialization'
+1473076949209	Delete element
+1473078811363	Extract method 'myMethod'
+1473079000208	Rename type 'IException'
+1473270317441	Extract method 'getHashTag'

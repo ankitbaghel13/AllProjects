@@ -1,0 +1,5 @@
+1521823491693	Rename type 'SecondInterview'
+1521823533460	Encapsulate field 'name'
+1521863803025	Extract method 'passByRefOrPBV'
+1521863834182	Extract method 'stringImmutability'
+1521866284587	Rename local variable 'map'

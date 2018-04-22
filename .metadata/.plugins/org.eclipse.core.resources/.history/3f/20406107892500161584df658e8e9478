@@ -1,0 +1,33 @@
+package employee;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+public class Collections {
+
+	public static void main(String[] args) {
+		Collections collections = new Collections();
+		collections.Collection();
+	}
+
+
+	public void Collection(){
+		//Array
+		String[] strArray = {"dsd","sdfd"};
+
+
+		//Array List
+		List<String> strArrayList = new ArrayList<String>();
+		strArrayList.add("Ankit");
+		strArrayList.add("Baghel");
+		
+		System.out.println(strArrayList);
+		
+		List<String> strLinkedList = new LinkedList<String>();
+		strLinkedList.add("Ankit");
+		strLinkedList.add("Baghel");
+		
+		System.out.println(strLinkedList);
+	}	
+}

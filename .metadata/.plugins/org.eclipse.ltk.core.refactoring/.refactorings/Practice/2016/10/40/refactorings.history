@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Employee.MainApp2.isRoatation(...)&apos; to &apos;isRotation&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Original element: &apos;Employee.MainApp2.isRoatation(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Employee.MainApp2.isRotation(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;isRoatation&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;Employee{MainApp2.java[MainApp2~isRoatation~QString;~QString;" name="isRotation" references="true" stamp="1475339417455" version="1.0"/>
+</session>

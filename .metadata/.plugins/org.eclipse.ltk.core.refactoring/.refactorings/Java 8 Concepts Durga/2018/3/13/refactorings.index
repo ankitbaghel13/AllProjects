@@ -1,0 +1,3 @@
+1522482444198	Rename type 'ComparatorJava8'
+1522503683823	Extract method 'countFilter'
+1522503712372	Extract method 'sortedStream'

@@ -1,0 +1,28 @@
+package logicConcept;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class RegEx {
+	
+	public static void main(String[] args) {
+		
+		/*Pattern p = Pattern.compile("a.k");
+		Matcher m = p.matcher("ank");
+		boolean bo = m.matches();
+		System.out.println(bo);
+		
+		boolean b2=Pattern.compile(".s").matcher("as").matches();*/  
+		
+		//boolean b = Pattern.matches("ank(it)+ ba(gh)?el", "ankitit bael");
+		
+		//boolean b = Pattern.matches("ank[it]? ba(gh)?el", "anki bael");
+		
+		//boolean b = Pattern.matches("[^abc]", "d");
+		
+		boolean b = Pattern.matches("[^a-cA-C]", "de");
+		
+		System.out.println(b);
+	}
+
+}

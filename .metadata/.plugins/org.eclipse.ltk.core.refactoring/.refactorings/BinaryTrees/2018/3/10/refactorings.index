@@ -1,0 +1,6 @@
+1520147802475	Rename type 'Traversals'
+1520148762423	Rename local variable 'node'
+1520148811196	Rename local variable 'list'
+1520150442706	Rename local variable 'level'
+1520150450224	Rename local variable 'height'
+1520150700912	Rename method 'getHeightOfTree'

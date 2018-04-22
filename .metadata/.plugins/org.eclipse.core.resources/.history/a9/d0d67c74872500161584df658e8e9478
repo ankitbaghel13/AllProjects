@@ -1,0 +1,12 @@
+package employee;
+
+import java.util.Arrays;
+
+public class Collections {
+
+	public static void main(String[] args) {
+		
+	}
+
+	String[] str = {"dsd","sdfd"};
+}

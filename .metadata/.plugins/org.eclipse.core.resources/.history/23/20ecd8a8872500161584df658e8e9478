@@ -1,0 +1,19 @@
+package employee;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Collections {
+
+	public static void main(String[] args) {
+		
+	}
+
+	//Array
+	String[] str = {"dsd","sdfd"};
+
+
+	//Array List
+	List<String> arrays = new ArrayList<String>();
+	
+}

@@ -1,0 +1,17 @@
+package com.binaryTree.misc;
+
+import com.binaryTree.traversal.Node;
+
+public class RootToLeafPathSum {
+
+	Node root;
+	
+	public RootToLeafPathSum() {
+		root = null;
+	}
+	public static void main(String[] args) {
+
+		
+	}
+
+}

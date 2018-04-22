@@ -1,0 +1,4 @@
+1522561379080	Extract method 'localTimeMethods'
+1522561396564	Extract method 'localDateMethods'
+1522595729035	Move package
+1522600540313	Rename package 'logicConcept'
