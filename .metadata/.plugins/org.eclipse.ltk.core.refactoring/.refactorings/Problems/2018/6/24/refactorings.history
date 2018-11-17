@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;arrays.Impeteus.getHighestSequence(...)&apos; to &apos;getIncreasingSequence&apos;&#x0D;&#x0A;- Original project: &apos;Problems&apos;&#x0D;&#x0A;- Original element: &apos;arrays.Impeteus.getHighestSequence(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;arrays.Impeteus.getIncreasingSequence(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;getHighestSequence&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;arrays{Impeteus.java[Impeteus~getHighestSequence~\[I" name="getIncreasingSequence" references="true" stamp="1529006534761" version="1.0"/>
+</session>

@@ -1,8 +1,5 @@
 package streamsAPI;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -38,7 +35,6 @@ public class BasicOperations {
 
 	private static void streamOf(List<Integer> list) {
 		
-	
 		Stream<Integer> integerStream = Stream.of(9,99,999,9999,99999);
 		System.out.println("\nCreating stream of integers using Stream.of");
 		integerStream.forEach(i->System.out.print(i+" "));

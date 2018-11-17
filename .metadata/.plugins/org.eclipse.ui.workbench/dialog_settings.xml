@@ -11,23 +11,27 @@
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="555" key="dialogHeight"/>
-		<item value="596" key="dialogWidth"/>
+		<item value="896" key="dialogWidth"/>
 		<list key="textEntries">
+			<item value="1"/>
 			<item value="3"/>
 			<item value="2"/>
 			<item value="2"/>
 		</list>
 		<list key="orderedElements">
+			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
 			<item value="org.eclipse.ui.views.ProblemView"/>
 			<item value="org.eclipse.ui.window.preferences"/>
 			<item value="org.eclipse.wst.server.ui.ServersView"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.ui.commands"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textArray">
+			<item value="project"/>
 			<item value="probl"/>
 			<item value="problem"/>
 			<item value="prob"/>

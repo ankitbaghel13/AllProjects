@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;mt.classLevelLocksVsObjectLevelLocks&apos; to &apos;mt&apos;&#x0D;&#x0A;- Original project: &apos;Core java&apos;&#x0D;&#x0A;- Original element: &apos;Core java/src/mt.classLevelLocksVsObjectLevelLocks&apos;&#x0D;&#x0A;- Renamed element: &apos;Core java/src/mt&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;mt.classLevelLocksVsObjectLevelLocks&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;mt.classLevelLocksVsObjectLevelLocks" name="mt" qualified="false" references="true" stamp="1528013053812" textual="false" version="1.0"/>
+</session>

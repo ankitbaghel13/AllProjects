@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Core java/src/generics.wildcards&apos;&#x0D;&#x0A;- Original project: &apos;Java 8 Concepts Durga&apos;&#x0D;&#x0A;- Destination element: &apos;Core java/src/generics.wildcards&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     streamsAPI.A.java&#x0D;&#x0A;     streamsAPI.B.java&#x0D;&#x0A;     streamsAPI.C.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Core java/src&lt;generics.wildcards" element1="/src&lt;streamsAPI{A.java" element2="/src&lt;streamsAPI{B.java" element3="/src&lt;streamsAPI{C.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1527923270897" units="3" version="1.0"/>
+</session>
