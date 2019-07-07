@@ -11,43 +11,48 @@
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="555" key="dialogHeight"/>
-		<item value="896" key="dialogWidth"/>
+		<item value="884" key="dialogWidth"/>
 		<list key="textEntries">
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
 			<item value="1"/>
 			<item value="3"/>
 			<item value="2"/>
-			<item value="2"/>
 		</list>
 		<list key="orderedElements">
+			<item value="org.eclipse.debug.ui.DebugView"/>
+			<item value="org.eclipse.wst.server.ui.ServersView"/>
+			<item value="org.eclipse.egit.ui.GitRepositoryExploring"/>
 			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
 			<item value="org.eclipse.ui.views.ProblemView"/>
 			<item value="org.eclipse.ui.window.preferences"/>
-			<item value="org.eclipse.wst.server.ui.ServersView"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
-			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.perspectives"/>
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.commands"/>
 		</list>
 		<list key="textArray">
+			<item value="debu"/>
+			<item value="server"/>
+			<item value="serve"/>
+			<item value="git"/>
 			<item value="project"/>
 			<item value="probl"/>
 			<item value="problem"/>
 			<item value="prob"/>
 			<item value="prefe"/>
 			<item value="prefere"/>
-			<item value="server"/>
-			<item value="serve"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item value="org.eclipse.jst.jsp.ui.internal.wizard.NewJSPWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jst.ejb.ui"/>
-			<item value="org.eclipse.jdt.ui.java"/>
-			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
-			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.wst.web.ui"/>
 		</list>
 	</section>
 	<section name="FileSystemExportWizard">

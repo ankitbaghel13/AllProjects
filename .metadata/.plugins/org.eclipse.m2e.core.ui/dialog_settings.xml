@@ -100,6 +100,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Learn Java\SpringSecurity-HelloWorld-XML"/>
 			<item value="C:\Learn Java\Interview"/>
 			<item value="C:\Learn Java\Store"/>
 			<item value="C:\Learn Java\FirstWebProject\WebContent\Login.html"/>
@@ -117,6 +118,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ankit.spring.SpringRestExample"/>
 			<item value="org.SpringMvcF"/>
 			<item value="org.GeeksForGeeks"/>
 			<item value="org.Store"/>
@@ -124,9 +126,11 @@
 			<item value="org.SpringMVC"/>
 		</list>
 		<list key="groupId">
+			<item value="com.ankit.spring"/>
 			<item value="org"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringRestExample"/>
 			<item value="SpringMvcF"/>
 			<item value="GeeksForGeeks"/>
 			<item value="Store"/>

@@ -88,6 +88,7 @@ class Sub extends Super
 {
     public Sub(String text)
     {
+    	super(text);
         i = 2; 
     } 
 

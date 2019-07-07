@@ -1,5 +1,4 @@
 package streamsAPI;
-import generics.wildcards.A;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

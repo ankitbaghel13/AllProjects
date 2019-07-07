@@ -15,9 +15,13 @@ public class RegEx {
 		/* boolean b = Pattern.compile(".s").matcher("as").matches(); */
 
 		// boolean b = Pattern.matches(".s", "as");
-		boolean b = Pattern.matches("[abc]", "b");
+		/*boolean b = Pattern.matches("[abc]", "b");
 
-		System.out.println(b);
+		System.out.println(b);*/
+		
+		String str = new String();
+		
+		
 
 	}
 
